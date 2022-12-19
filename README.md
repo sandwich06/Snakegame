@@ -2,13 +2,13 @@
 
 ##Server Package
 
-### sql file
+###### Sql file
 I use a server to connect to database(Mysql), and import this file to create the table.
 
-### Database configeration
+###### Database configeration
 My database configeration is in package Server, the file "DataBase.java". Before running Server.java, use your database user and password to replace the variable "dbUser" and "dbPassword" in "DataBase.java".
 
-###Run Server
+######Run Server
 Run "Server.java"
 
 ##Start game
